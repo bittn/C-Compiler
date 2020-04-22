@@ -1,0 +1,2 @@
+print(date())
+print("\n")
